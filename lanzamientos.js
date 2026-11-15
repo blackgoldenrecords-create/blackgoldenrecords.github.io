@@ -32,14 +32,14 @@
 
 var LANZAMIENTOS = [
   {
-    artista: 'LeLe × Erickproud',
-    titulo: 'LeLe × Erickproud',
-    tipo: 'Single · Colaboración',
-    codigo: 'BGR · 10 OCT',
+    artista: 'LeLe',
+    titulo: 'CHEPE DRIFT',
+    tipo: 'Single',
+    codigo: 'BGR · 15 OCT',
     portada: 'oro',
-    textoPortada: ['LELE', '× ERICKPROUD'],
+    textoPortada: ['LELE CHEPE DRIFT'],
     destacado: true,
-    descripcion: 'La colaboración más reciente del sello. Audio, visual y narrativa salen juntos el mismo día.',
+    descripcion: 'EN CHEPE ANDAMOS DERRAPANDO.',
     enlaces: {}
   },
   {
